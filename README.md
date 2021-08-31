@@ -1,3 +1,4 @@
+## **Olá mundo!**  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -5,7 +6,7 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-## 🚀 Minhas Skills
+## **Linguagens e Ferramentas:**  
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -44,8 +45,14 @@
 </p>  
 
 
+## **GitHub Estatísticas**
+
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghpvampiro)](https://github.com/anuraghazra/github-readme-stats)
