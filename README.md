@@ -2,6 +2,10 @@
  <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="50px"  alt="SonicChaos">
 </a>
 
+<div align="center">
+这是一些文本！
+</div>
+
 ## **Olá mundo!**  
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
