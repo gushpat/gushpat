@@ -48,11 +48,11 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpvampiro&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpvampiro&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghpvampiro)](https://github.com/anuraghazra/github-readme-stats)
