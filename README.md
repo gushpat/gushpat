@@ -4,7 +4,7 @@
 </div>
 
 ## **Olá mundo!**  
-<img src="https://c.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://c.tenor.com/GRFNVdnrVrgAAAAC/win-error-error.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
