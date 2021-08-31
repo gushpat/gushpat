@@ -1,38 +1,42 @@
-<a href="https://github.com/ghpvampiro">
- <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="50px"  alt="SonicChaos">
-</a>
 
 <div align="center">
-这是一些文本！
+<img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="50px"  alt="SonicChaos">
 </div>
 
 ## **Olá mundo!**  
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
+🎓 Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
+❤️ Windows XP <br>
 </p>
 
 ## **Linguagens e Ferramentas:**  
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://fadigeorge.files.wordpress.com/2010/02/unity_01.jpg" alt="Unity"/></code>
+<code><img height="32" src="http://scalar.usc.edu/works/unity-chapter/media/unreal.png" alt="Unreal"/></code>
+<code><img height="32" src="https://www.ambiera.com/coppercube/doc/images/ccicon.png" alt="CopperCube"/></code>
+<code><img height="32" src="https://pbs.twimg.com/profile_images/1252304361813938177/K-rTXn4R_400x400.jpg" alt="RPG Maker"/></code>
+<code><img height="32" src="https://styles.redditmedia.com/t5_2siel/styles/communityIcon_t43yo1toewz01.png" alt="Mugen"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://yt3.ggpht.com/ytc/AKedOLRt1d4p7bPylasq_66BIC8-k3hkyVjJ2JICQITK=s900-c-k-c0x00ffffff-no-rj" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+<code><img height="32" src="https://freepikpsd.com/media/2019/10/c-programming-logo-png-2-Png-Transparent-Images.png" alt="c"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++"/></code>
+<code><img height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" alt="c"/></code>
 
 ---
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Você pode entrar em contato comigo por meio destes canais: ⤵️
 </p>
 
 <p align="left">
@@ -58,8 +62,6 @@
 <a href="https://github.com/ghpvampiro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpvampiro&hide_langs_below=1" />
 </a>
-
-
 
 <a href="https://github.com/ghpvampiro">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpvampiro&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
