@@ -55,6 +55,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpvampiro&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
+## **Se liga na cobrinha!**
+
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="400px" align="center" alt="Computador iuriCode">
