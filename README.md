@@ -51,9 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpvampiro&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/ghpvampiro">
- <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="50px"  alt="SonicChaos">
-</a>
+
 
 <a href="https://github.com/ghpvampiro">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpvampiro&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
@@ -65,4 +63,6 @@
 
 
 
-
+<a href="https://github.com/ghpvampiro">
+ <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="50px"  alt="SonicChaos">
+</a>
