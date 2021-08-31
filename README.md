@@ -43,12 +43,16 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-<div align="left">
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghpvampiro)](https://github.com/anuraghazra/github-readme-stats)
-</dv>
-<div align="right">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghpvampiro)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
