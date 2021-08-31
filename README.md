@@ -59,4 +59,4 @@
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
-<img src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="400px" align="center" alt="Computador iuriCode">
+<img src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="50px" align="center" alt="Computador iuriCode">
