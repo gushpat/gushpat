@@ -1,5 +1,5 @@
 ## **Olá mundo!**  
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
@@ -59,4 +59,4 @@
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
-<img src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="50px" align="center" alt="Computador iuriCode">
+<img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="50px"  alt="SonicChaos">
