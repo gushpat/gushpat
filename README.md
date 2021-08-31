@@ -1,5 +1,5 @@
 ## **Olá mundo!**  
-<img src="https://giphy.com/embed/YQitE4YNQNahy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://imgur.com/gallery/hDOfuOx.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
