@@ -43,9 +43,12 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
+<p align="left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghpvampiro)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
+<p align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghpvampiro)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
