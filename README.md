@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif" min-width="50px" max-width="50px" width="50px"  alt="SonicChaos">
+<img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif"  alt="SonicChaos">
 </div>
 
 ## **Olá mundo!**  
@@ -70,7 +70,4 @@
 ## **Se liga na cobrinha!**
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
