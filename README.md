@@ -55,6 +55,15 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/zerosenpai/"/></a>
 </p>  
 
+## 📘 Melhores Projetos de Código Aberto
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=algoritmos-de-ordenacao)](https://github.com/anuraghazra/github-readme-stats)
+  
+</p>
 
 ## 📊 **Estatísticas**
 
@@ -65,6 +74,7 @@
 <a href="https://github.com/ghpvampiro">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpvampiro&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
+
 
 
 
