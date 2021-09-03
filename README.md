@@ -3,7 +3,7 @@
 <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif"  alt="SonicChaos">
 </div>
 
-## 👋 **Olá mundo!**  
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Olá mundo!**  
 <img src="https://c.tenor.com/GRFNVdnrVrgAAAAC/win-error-error.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -15,7 +15,7 @@
 💪 Empreendedor
 </p>
 
-## **Linguagens e Ferramentas:**  
+## 🛠️ **Linguagens e Ferramentas:**  
 
 <code><img height="32" src="https://fadigeorge.files.wordpress.com/2010/02/unity_01.jpg" alt="Unity"/></code>
 <code><img height="32" src="http://scalar.usc.edu/works/unity-chapter/media/unreal.png" alt="Unreal"/></code>
@@ -72,4 +72,5 @@
 ## 🐍 **Se liga na cobrinha!**
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
+
 
