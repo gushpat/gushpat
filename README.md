@@ -61,7 +61,7 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=algoritmos-de-ordenacao)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=algoritmos-de-ordenacao)](https://github.com/ghpvampiro/algoritmos-de-ordenacao)
   
 </p>
 
