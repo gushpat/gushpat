@@ -3,7 +3,7 @@
 <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif"  alt="SonicChaos">
 </div>
 
-## **Olá mundo!**  
+## 👋 **Olá mundo!**  
 <img src="https://c.tenor.com/GRFNVdnrVrgAAAAC/win-error-error.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -56,7 +56,7 @@
 </p>  
 
 
-## **GitHub Estatísticas**
+## 📊 **Estatísticas**
 
 <a href="https://github.com/ghpvampiro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpvampiro&hide_langs_below=1" />
@@ -66,7 +66,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpvampiro&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-## **Se liga na cobrinha!**
+
+
+
+## 🐍 **Se liga na cobrinha!**
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
