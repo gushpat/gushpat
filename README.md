@@ -15,7 +15,7 @@
 💪 Empreendedor
 </p>
 
-## 🛠️ **Linguagens e Ferramentas**  
+## <img align="center" src="https://i.gifer.com/origin/e3/e3e3b4b39144906a9199db73beaf5c3e_w200.webp" width="28" alt="SonicChaos"> **Linguagens e Ferramentas**  
 
 <code><img height="32" src="https://fadigeorge.files.wordpress.com/2010/02/unity_01.jpg" alt="Unity"/></code>
 <code><img height="32" src="http://scalar.usc.edu/works/unity-chapter/media/unreal.png" alt="Unreal"/></code>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/zerosenpai/"/></a>
 </p>  
 
-## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="35" alt="SonicChaos"> Melhores Projetos de Código Aberto
+## <img align="center" src="https://i.gifer.com/origin/a9/a95ef9bce2a1d53accc6a8018df04ff6_w200.webp" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -65,7 +65,7 @@
   
 </p>
 
-## 📊 **Estatísticas**
+## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="35" alt="SonicChaos"> **Estatísticas**
 
 <a href="https://github.com/ghpvampiro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpvampiro&hide_langs_below=1" />
