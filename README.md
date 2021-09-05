@@ -4,7 +4,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Olá mundo!**  
-<img src="https://c.tenor.com/GRFNVdnrVrgAAAAC/win-error-error.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://c.tenor.com/_6jEVOSBUCAAAAAd/nature-castle.gif"  width="360px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
@@ -15,7 +15,7 @@
 💪 Empreendedor
 </p>
 
-## 🛠️ **Linguagens e Ferramentas:**  
+## 🛠️ **Linguagens e Ferramentas**  
 
 <code><img height="32" src="https://fadigeorge.files.wordpress.com/2010/02/unity_01.jpg" alt="Unity"/></code>
 <code><img height="32" src="http://scalar.usc.edu/works/unity-chapter/media/unreal.png" alt="Unreal"/></code>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/zerosenpai/"/></a>
 </p>  
 
-## 📘 Melhores Projetos de Código Aberto
+## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="35" alt="SonicChaos"> Melhores Projetos de Código Aberto
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
