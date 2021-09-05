@@ -79,7 +79,7 @@
 
 
 
-## 🐍 **Se liga na cobrinha!**
+## 🐍 **Diga olá para a minha cobrinha!**
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
