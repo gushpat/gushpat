@@ -64,6 +64,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=algoritmos-de-ordenacao)](https://github.com/ghpvampiro/algoritmos-de-ordenacao)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=password-generator)](https://github.com/ghpvampiro/password-generator)
   
+  
 </p>
 
 ## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="35" alt="SonicChaos"> **Estatísticas**
