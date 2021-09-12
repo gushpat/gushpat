@@ -62,7 +62,7 @@
 <p align="left">
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=algoritmos-de-ordenacao)](https://github.com/ghpvampiro/algoritmos-de-ordenacao)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=password-generator)](https://github.com/ghpvampiro/password-generator)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=random-password-generator)](https://github.com/ghpvampiro/random-password-generator)
   
   
 </p>
