@@ -61,8 +61,10 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=algoritmos-de-ordenacao)](https://github.com/ghpvampiro/algoritmos-de-ordenacao)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=random-password-generator)](https://github.com/ghpvampiro/random-password-generator)
+
+  <p align="left">
+  <a href="https://github.com/ghpvampiro/algoritmos-de-ordenacao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=algoritmos-de-ordenacao&show_icons=true" alt="algoritmos-de-ordenacao"></a>
+  <a href="https://github.com/ghpvampiro/random-password-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=random-password-generator&show_icons=true" alt="random-password-generator"></a>
   
   
 </p>
