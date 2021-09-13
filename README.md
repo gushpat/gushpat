@@ -80,7 +80,7 @@
 </a>
 
 
-## 🐍 **Diga olá para a minha cobrinha!**
+## <img align="center" src="https://c.tenor.com/LsWXtjDh6lYAAAAi/hytale-hytale-game.gif" width="40" alt="SonicChaos"> **Diga olá para a minha cobrinha!**
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
