@@ -4,7 +4,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Olá mundo!**  
-<img src="https://64.media.tumblr.com/aaaf8c8051b2fc910c848068e29a0a44/6279ad71e2547ae6-4c/s2048x3072/0fb86d7a3962dec7d27eda3bf09cc98a4dcd8201.gif"  width="300px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif"  width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
