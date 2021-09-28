@@ -89,13 +89,11 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  
 
   <p align="left">
    <a href="https://github.com/ghpvampiro/code-talker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=code-talker&show_icons=true" alt="code-talker"></a>
   <a href="https://github.com/ghpvampiro/algoritmos-de-ordenacao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=algoritmos-de-ordenacao&show_icons=true" alt="algoritmos-de-ordenacao"></a>
   <a href="https://github.com/ghpvampiro/random-password-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=random-password-generator&show_icons=true" alt="random-password-generator"></a>
-  
   
 </p>
 
