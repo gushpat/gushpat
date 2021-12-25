@@ -21,16 +21,16 @@
 ### 👨‍💻 Linguagens de Programação
 
 <p>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aghpvampiro+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks e bibliotecas
@@ -78,8 +78,8 @@
   <a href="https://www.linkedin.com/in/gustavohpatricio/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavohpatricio/" /></a>
 
-  <a href="https://facebook.com/ghpvampiro" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/ghpvampiro"/></a>
+  <a href="https://facebook.com/gushpat" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/gushpat"/></a>
 
   <a href="https://www.instagram.com/zerosenpai/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/zerosenpai/"/></a>
@@ -92,20 +92,20 @@
 <p align="left">
 
   <p align="left">
-   <a href="https://github.com/ghpvampiro/code-talker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=code-talker&show_icons=true" alt="code-talker"></a>
-  <a href="https://github.com/ghpvampiro/algoritmos-de-ordenacao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=algoritmos-de-ordenacao&show_icons=true" alt="algoritmos-de-ordenacao"></a>
-  <a href="https://github.com/ghpvampiro/random-password-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghpvampiro&repo=random-password-generator&show_icons=true" alt="random-password-generator"></a>
+   <a href="https://github.com/gushpat/code-talker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=code-talker&show_icons=true" alt="code-talker"></a>
+  <a href="https://github.com/gushpat/algoritmos-de-ordenacao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=algoritmos-de-ordenacao&show_icons=true" alt="algoritmos-de-ordenacao"></a>
+  <a href="https://github.com/gushpat/random-password-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=random-password-generator&show_icons=true" alt="random-password-generator"></a>
   
 </p>
 
 ## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="35" alt="SonicChaos"> **Estatísticas**
 
-<a href="https://github.com/ghpvampiro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpvampiro&hide_langs_below=1" />
+<a href="https://github.com/gushpat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gushpat&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/ghpvampiro">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpvampiro&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/gushpat">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gushpat&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 
