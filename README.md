@@ -9,11 +9,11 @@
 <p align="left"> 
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
 🎓 Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
-❤️ Windows XP <br>
+❤️ Windows XP & Xubuntu <br>
 🏆 1º Lugar no Hackathon Mais no 15º Benchmarking Brasil em 2017. <br>
 🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil em 2019. <br>
 💪 Empreendedor
-    
+ <hr>  
 </p>
 
 ## <img align="center" src="https://i.gifer.com/origin/e3/e3e3b4b39144906a9199db73beaf5c3e_w200.webp" width="28" alt="SonicChaos"> Ferramentas Favoritas
