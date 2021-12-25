@@ -81,8 +81,8 @@
   <a href="https://facebook.com/gushpat" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/gushpat"/></a>
 
-  <a href="https://www.instagram.com/zerosenpai/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/zerosenpai/"/></a>
+  <a href="https://www.instagram.com/gushpat/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gushpat/"/></a>
 </p>  
 
 ## <img align="center" src="https://i.gifer.com/origin/a9/a95ef9bce2a1d53accc6a8018df04ff6_w200.webp" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
