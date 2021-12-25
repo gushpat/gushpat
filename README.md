@@ -18,7 +18,7 @@
 
 ## <img align="center" src="https://i.gifer.com/origin/e3/e3e3b4b39144906a9199db73beaf5c3e_w200.webp" width="28" alt="SonicChaos"> Ferramentas Favoritas
 
-### 👨‍💻 Linguagens de Programação
+### 👨‍💻 Linguagens
 
 <p>
     <a href="https://github.com/search?q=user%3Agushpat+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
