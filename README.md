@@ -16,7 +16,7 @@
  
 </p>
 
-## <img align="center" src="https://i.gifer.com/origin/e3/e3e3b4b39144906a9199db73beaf5c3e_w200.webp" width="28" alt="SonicChaos"> Ferramentas Favoritas
+## <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Tool_animated.gif" width="28" alt="SonicChaos"> Ferramentas Favoritas
 
 ### 👨‍💻 Linguagens
 
