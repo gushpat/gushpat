@@ -16,7 +16,7 @@
  
 </p>
 
-## <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Tool_animated.gif" width="28" alt="SonicChaos"> Ferramentas Favoritas
+## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="28" alt="SonicChaos"> Ferramentas Favoritas
 
 ### 👨‍💻 Linguagens
 
@@ -103,16 +103,6 @@
    <a href="https://github.com/gushpat/count-characters"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=count-characters&show_icons=true" alt="count-characters"></a>
   
 </p>
-
-## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="35" alt="SonicChaos"> **Estatísticas**
-
-<a href="https://github.com/gushpat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gushpat&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/gushpat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gushpat&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
 
 
 ## <img align="center" src="https://c.tenor.com/LsWXtjDh6lYAAAAi/hytale-hytale-game.gif" width="40" alt="SonicChaos"> **Diga olá para a minha cobrinha!**
