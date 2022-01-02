@@ -9,12 +9,13 @@
 <p align="left"> 
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
 🎓 Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
-❤️ Windows XP & Xubuntu <br>
+❤️ Windows XP <br>
 🏆 1º Lugar no Hackathon Mais no 15º Benchmarking Brasil em 2017. <br>
 🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil em 2019. <br>
 💪 Empreendedor
  
 </p>
+
 
 ## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="28" alt="SonicChaos"> Ferramentas Favoritas
 
@@ -24,16 +25,16 @@
     <a href="https://github.com/search?q=user%3Agushpat+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Agushpat+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Agushpat+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agushpat+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agushpat+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agushpat+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agushpat+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agushpat+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+ <a href="https://github.com/search?q=user%3Agushpat+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3Agushpat+language%3Apascal"><img alt="Pascal" src="https://img.shields.io/badge/-Pascal-8669AE?logo=Circle&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3Agushpat+language%3Adelphi"><img alt="Delphi" src="https://img.shields.io/badge/-Delphi-EE1F35?logo=Delphi&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agushpat+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3Agushpat+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Agushpat+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3Agushpat+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+ <a href="https://github.com/search?q=user%3Agushpat+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Agushpat+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
+ <a href="https://github.com/search?q=user%3Agushpat+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
+ 
 
 
 
@@ -59,7 +60,7 @@
     
 </p>
 
-### 💻 Aplicativos e Ferramentas
+### <img alt="missingno" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Tool_animated.gif" width="30"> Aplicativos e Ferramentas
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -75,9 +76,9 @@
 
 ---
 
-<p align="left">
-  💌 Você pode entrar em contato comigo por meio destes canais: ⤵️
-</p>
+
+ ### <img alt="missingno" src="http://1.bp.blogspot.com/-9O0kLsLLzWw/VQ8dzAkjHwI/AAAAAAAAOiU/yTHqm4YkULs/s1600/8%2Bbit%2B10.gif" width="30"> Você pode entrar em contato comigo por meio destes canais: 
+
 
 <p align="left">
  
@@ -91,7 +92,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gushpat/"/></a>
 </p>  
 
-## <img align="center" src="https://i.gifer.com/origin/a9/a95ef9bce2a1d53accc6a8018df04ff6_w200.webp" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
+## <img align="center" src="http://1.bp.blogspot.com/-dkHZn5D1IlQ/VQ8d3uyEJlI/AAAAAAAAOjo/k0xTBG9p3GM/s1600/8%2Bbit%2B20.gif" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
