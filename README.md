@@ -41,7 +41,7 @@
 
 
 
-### 🧰 Frameworks e bibliotecas
+### <img align="center" src="http://www.powersonic.com.br/downloads/gifs/emeralds/mastermss.gif" width="28" alt="SonicChaos"> Frameworks e bibliotecas
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
