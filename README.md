@@ -10,8 +10,8 @@
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
 🎓 (WIP) Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
 ❤️ Windows XP <br>
-🏆 1º Lugar no Hackathon Mais no 15º Benchmarking Brasil em 2017. <br>
-🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil em 2019. <br>
+🏆 1º Lugar no Hackathon Mais no 15º Benchmarking Brasil. <br>
+🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil. <br>
 
  
 </p>
