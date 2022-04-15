@@ -19,7 +19,7 @@
 
 ## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="28" alt="SonicChaos"> Ferramentas Favoritas
 
-### 👨‍💻 Linguagens
+### <img align="center" src="https://c.tenor.com/Y-SWmQ_IJKQAAAAC/mega-man-megaman-accords.gif" width="28" alt="SonicChaos"> Linguagens
 
 <p>
     <a href="https://github.com/search?q=user%3Agushpat+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -55,7 +55,7 @@
   
 </p>
 
-### 🗄️ Banco de dados e Hospedagem em nuvem
+### <img align="center" src="https://c.tenor.com/i_L5KauoCcoAAAAi/dice.gif" width="28" alt="SonicChaos"> Banco de dados e Hospedagem em nuvem
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
