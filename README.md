@@ -48,7 +48,7 @@
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="RPG Maker VX" src="https://img.shields.io/badge/RPG Maker VX-430098.svg?logo=dungeonsanddragons&logoColor=white"></a>
+    <a href="#"><img alt="RPG Maker" src="https://img.shields.io/badge/RPG Maker-430098.svg?logo=dungeonsanddragons&logoColor=white"></a>
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-20232a?logo=unity&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8669AE.svg?logo=visual-studio&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
