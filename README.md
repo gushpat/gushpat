@@ -4,7 +4,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Olá mundo!**  
-<img src="https://thumbs.gfycat.com/ConcreteImmediateAngelwingmussel-max-1mb.gif"  height="450px" align="right" alt="Computador iuriCode">
+<img src="https://64.media.tumblr.com/32aa5be28cf711c96cb1e2993e183f59/tumblr_mwyd8en9jc1rfjowdo1_500.gifv"  height="350px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
