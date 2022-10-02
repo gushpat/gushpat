@@ -90,14 +90,16 @@
 
 <p align="left">
  
-  <a href="https://www.linkedin.com/in/gustavohpatricio/" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/gustavohpatricio/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavohpatricio/" /></a>
-
-  <a href="https://facebook.com/gushpat" alt="Facebook">
+ 
+<a href="https://www.instagram.com/gushpat/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gushpat/"/></a>
+  
+ <a href="https://facebook.com/gushpat" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/gushpat"/></a>
 
-  <a href="https://www.instagram.com/gushpat/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gushpat/"/></a>
+  
 </p>  
 
 ## <img align="center" src="http://1.bp.blogspot.com/-dkHZn5D1IlQ/VQ8d3uyEJlI/AAAAAAAAOjo/k0xTBG9p3GM/s1600/8%2Bbit%2B20.gif" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
