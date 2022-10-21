@@ -16,7 +16,7 @@
  
 </p>
 
-
+<!--- 
 ## <img align="center" src="https://www.powersonic.com.br/downloads/gifs/others/screen01.gif" width="28" alt="SonicChaos"> Ferramentas Favoritas
 
 ### <img align="center" src="https://c.tenor.com/Y-SWmQ_IJKQAAAAC/mega-man-megaman-accords.gif" width="28" alt="SonicChaos"> Linguagens
@@ -83,7 +83,7 @@
 </p>
 
 ---
-
+-->
 
  ### <img alt="missingno" src="http://1.bp.blogspot.com/-9O0kLsLLzWw/VQ8dzAkjHwI/AAAAAAAAOiU/yTHqm4YkULs/s1600/8%2Bbit%2B10.gif" width="30"> Você pode entrar em contato comigo por meio destes canais: 
 
