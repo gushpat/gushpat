@@ -1,10 +1,11 @@
 
 <div align="center">
-<img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif"  alt="SonicChaos">
+<!-- <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif"  alt="SonicChaos"> -->
+ <img align="center" src="https://media4.giphy.com/media/oifKB3IrjgeRZzZzrY/giphy.gif"  width="70" alt="SonicChaos">
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Olá mundo!**  
-<img src="https://webneel.com/daily/sites/default/files/images/daily/04-2021/21-3d-fast-run-cycle-animation-elias-schwarze.gif"  height="200px" align="right" alt="Computador iuriCode">
+<img src="https://media2.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif"  height="200px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
@@ -17,7 +18,7 @@
  
 </p>
 
- ## <img alt="missingno" src="http://1.bp.blogspot.com/-9O0kLsLLzWw/VQ8dzAkjHwI/AAAAAAAAOiU/yTHqm4YkULs/s1600/8%2Bbit%2B10.gif" width="30"> Você pode entrar em contato comigo por meio destes canais: 
+ ## <img alt="missingno" src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="30"> Você pode entrar em contato comigo por meio destes canais: 
 
 
 <p align="left">
@@ -34,7 +35,7 @@
   
 </p>  
 
-## <img align="center" src="http://1.bp.blogspot.com/-dkHZn5D1IlQ/VQ8d3uyEJlI/AAAAAAAAOjo/k0xTBG9p3GM/s1600/8%2Bbit%2B20.gif" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
+## <img align="center" src="https://media3.giphy.com/media/fH6sWTw73YS9tjqPSF/giphy.gif" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
 
 <p align="left">
 
