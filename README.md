@@ -51,4 +51,4 @@
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
-Qcbufohizohwcbg! Mci vojs tcibr hvs gsqfsh zsjsz gszsqh gqfssb! Dfsgg obm ysm hc qcbhwbis...
+43 6f 6e 67 72 61 74 75 6c 61 74 69 6f 6e 73 21 20 59 6f 75 20 68 61 76 65 20 66 6f 75 6e 64 20 61 20 73 65 63 72 65 74 21
