@@ -1,7 +1,7 @@
 
 <div align="center">
 <!-- <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif"  alt="SonicChaos"> -->
- <img align="center" src="https://media4.giphy.com/media/oifKB3IrjgeRZzZzrY/giphy.gif"  width="70" alt="SonicChaos">
+ <img align="center" src="https://media.tenor.com/8cHH-FfpGrIAAAAi/sonic.gif"  width="70" alt="SonicChaos">
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Olá mundo!**  
