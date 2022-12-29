@@ -1,17 +1,16 @@
 
 <div align="center">
 <!-- <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif"  alt="SonicChaos"> -->
-<!-- <img align="center" src="https://media.tenor.com/8cHH-FfpGrIAAAAi/sonic.gif"  width="70" alt="SonicChaos"> -->
+<img align="center" src="https://media.tenor.com/8cHH-FfpGrIAAAAi/sonic.gif"  width="70" alt="SonicChaos"> 
  
- <img align="center" src="https://media.tenor.com/Muy5iqWr9lYAAAAi/santa-claus-santa.gif"  width="120" alt="Natal">
+ 
 </div>
 
 
 
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Olá mundo!**  
-<!-- <img src="https://media2.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif"  height="200px" align="right" alt="Computador iuriCode"> -->
-<img src="https://64.media.tumblr.com/eb4f6eda427b60cfa66cbb7fe7f87566/tumblr_nd92ctfq5i1roqda3o1_500.gif"  height="200px" align="right" alt="Computador iuriCode">
+<img src="https://media2.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif"  height="200px" align="right" alt="Computador iuriCode">
 
 
 <p align="left"> 
