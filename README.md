@@ -1,7 +1,9 @@
 
 <div align="center">
 <!-- <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif"  alt="SonicChaos"> -->
-<img align="center" src="https://media.tenor.com/8cHH-FfpGrIAAAAi/sonic.gif"  width="70" alt="SonicChaos"> 
+<!-- <img align="center" src="https://media.tenor.com/8cHH-FfpGrIAAAAi/sonic.gif"  width="70" alt="SonicChaos"> -->
+ 
+<img align="center" src="https://media.tenor.com/3f7vrJ-_KGUAAAAi/sonic-adventure.gif"  width="90" alt="SonicChaos"> 
  
  
 </div>
