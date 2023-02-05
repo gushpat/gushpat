@@ -11,14 +11,14 @@
 
 
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Olá mundo!**  
+## <img src="https://media1.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=790b7611a0383012319226500cd0665ad443d1c2125d54b2&rid=giphy.gif&ct=s" width="38"> **Olá mundo!**  
 <img src="https://media2.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif"  height="200px" align="right" alt="Computador iuriCode">
 
 
 <p align="left"> 
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
-❤️ Debian + Cinnamon<br>
+❤️ Linux Mint + XFCE<br>
 🏆 1º Lugar no Hackathon Mais no 15º Benchmarking Brasil. <br>
 🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil. <br>
 
@@ -26,7 +26,7 @@
  
 </p>
 
- ## <img alt="missingno" src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="30"> Você pode entrar em contato comigo por meio destes canais: 
+ ## <img alt="missingno" src="https://media0.giphy.com/media/KeWEM5DLf4lC2vXzhg/giphy.gif?cid=790b7611c9e739a660461fe5cb4dcbb0f4dc22b2b7ea6911&rid=giphy.gif&ct=s" width="30"> Entre em contato! Aqui estão minhas redes sociais
 
 
 <p align="left">
@@ -43,7 +43,7 @@
   
 </p>  
 
-## <img align="center" src="https://media3.giphy.com/media/fH6sWTw73YS9tjqPSF/giphy.gif" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
+## <img align="center" src="https://media1.giphy.com/media/xT0GqFhdxLWiksreEM/giphy.gif?cid=ecf05e47iwd9un61oaojah5k14nc5alq14c7vn6jnizwxv2g&rid=giphy.gif&ct=s" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
 
 <p align="left">
 
@@ -55,9 +55,9 @@
 </p>
 
 
-## <img align="center" src="https://c.tenor.com/LsWXtjDh6lYAAAAi/hytale-hytale-game.gif" width="40" alt="SonicChaos"> **Diga olá para a minha cobrinha!**
+## <img align="center" src="https://media2.giphy.com/media/iQrDORShLPiqQ/giphy.gif?cid=790b7611b3c938a5f919fb0c2b19921e0c383ebe5063cce6&rid=giphy.gif&ct=s" width="40" alt="MissingNo"> **Diga olá para a minha cobrinha!**
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
-## <img align="center" src="https://i.pinimg.com/originals/0b/52/6b/0b526b3bcd605904e46b0ab25c032cec.jpg" width="30" alt="SonicChaos"> **gge retsae**
+## <img align="center" src="https://i.pinimg.com/originals/0b/52/6b/0b526b3bcd605904e46b0ab25c032cec.jpg" width="30" alt="MissingNo"> **gge retsae**
 43 6f 6e 67 72 61 74 75 6c 61 74 69 6f 6e 73 21 20 59 6f 75 20 68 61 76 65 20 66 6f 75 6e 64 20 61 20 73 65 63 72 65 74 21
