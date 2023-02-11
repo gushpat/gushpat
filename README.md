@@ -3,7 +3,7 @@
 <!-- <img align="center" src="http://www.powersonic.com.br/index/sonic_a_2.gif"  alt="SonicChaos"> -->
 <!-- <img align="center" src="https://media.tenor.com/8cHH-FfpGrIAAAAi/sonic.gif"  width="70" alt="SonicChaos"> -->
  
-<img align="center" src="https://media.tenor.com/3f7vrJ-_KGUAAAAi/sonic-adventure.gif"  width="90" alt="SonicChaos"> 
+<img align="center" src="https://media.tenor.com/dElp10HHmL0AAAAi/sonic-dancing.gif"  width="70" alt="SonicChaos"> 
  
  
 </div>
@@ -59,5 +59,5 @@
 
 ![Snake animation](https://github.com/ghpvampiro/ghpvampiro/blob/output/github-contribution-grid-snake.svg)
 
-## <img align="center" src="https://i.pinimg.com/originals/0b/52/6b/0b526b3bcd605904e46b0ab25c032cec.jpg" width="30" alt="MissingNo"> **gge retsae**
+## <img align="center" src="https://media.tenor.com/9ig5eyk17XEAAAAi/emojis-emoji.gif" width="30" alt="MissingNo"> **gge retsae**
 43 6f 6e 67 72 61 74 75 6c 61 74 69 6f 6e 73 21 20 59 6f 75 20 68 61 76 65 20 66 6f 75 6e 64 20 61 20 73 65 63 72 65 74 21
