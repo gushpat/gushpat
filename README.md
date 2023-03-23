@@ -25,7 +25,7 @@
 
  
 </p>
-
+<!--
  ## <img alt="missingno" src="https://media0.giphy.com/media/KeWEM5DLf4lC2vXzhg/giphy.gif?cid=790b7611c9e739a660461fe5cb4dcbb0f4dc22b2b7ea6911&rid=giphy.gif&ct=s" width="30"> Entre em contato! Aqui estão minhas redes sociais
 
 
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/gushpat"/></a>
 
   
-</p>  
+</p>  --->
 
 ## <img align="center" src="https://media1.giphy.com/media/xT0GqFhdxLWiksreEM/giphy.gif?cid=ecf05e47iwd9un61oaojah5k14nc5alq14c7vn6jnizwxv2g&rid=giphy.gif&ct=s" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
 
