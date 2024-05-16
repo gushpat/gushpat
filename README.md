@@ -18,7 +18,7 @@
 <p align="left"> 
 🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
-❤️ FreeBSD<br>
+❤️ Linux Mint<br>
 🏆 1º Lugar no Hackathon Mais no 15º Benchmarking Brasil. <br>
 🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil. <br>
 
