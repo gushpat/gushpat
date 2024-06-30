@@ -43,6 +43,8 @@
   
 </p>  --->
 
+<br/>
+
 ## <img align="center" src="https://media1.giphy.com/media/xT0GqFhdxLWiksreEM/giphy.gif?cid=ecf05e47iwd9un61oaojah5k14nc5alq14c7vn6jnizwxv2g&rid=giphy.gif&ct=s" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
 
 <p align="left">
