@@ -20,7 +20,9 @@
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
 ❤️ Linux Mint<br>
 🏆 1º Lugar no Hackathon Mais no 15º Benchmarking Brasil. <br>
-🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil. <br>
+🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil. <br><br>
+ 
+🌟 Ad Astra Et ultra!<br>
 
 
  
