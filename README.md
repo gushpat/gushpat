@@ -62,6 +62,7 @@
     <a href="#"><img alt="CopperCube" src="https://img.shields.io/badge/CopperCube-68217A.svg?logo=square&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+ <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20a?logo=laravel&logoColor=white"></a>
  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="RPG Maker" src="https://img.shields.io/badge/RPG Maker-430098.svg?logo=dungeonsanddragons&logoColor=white"></a>
