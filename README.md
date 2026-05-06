@@ -16,12 +16,15 @@
 
 
 <p align="left"> 
-🎓 Tecnólogo em Gestão da Tecnologia da Informação.<br>
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
-❤️ Debian, Mint & Zorin <br>
-🏆 1º Lugar no Hackathon Mais no 15º Benchmarking Brasil. <br>
-🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil. <br>
-🌟 Ad Astra Et ultra!<br>
+💻 Desenvolvedor full-stack focado em inovação, criando desde sistemas web eficientes até experiências imersivas em jogos para PC e Mobile. <br/>
+🎓 Tecnólogo em Gestão da Tecnologia da Informação. <br/>
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas. <br/>
+❤️ Debian, Mint & Zorin. <br/>
+🏆 1º Lugar no Hackathon Mais no 15º Benchmarking Brasil. <br/>
+🏆 5º Lugar no Hackathon Mais no 17º Benchmarking Brasil. <br/>
+🐧 Seja bem vindo ao próximo nível! <br/>
+
+🌟 Ad Astra Et ultra! <br/>
 
 
 </p>
