@@ -16,7 +16,7 @@
 
 
 <p align="left"> 
-💻 Desenvolvedor full-stack focado em inovação, criando desde sistemas web eficientes até experiências imersivas em jogos para PC e Mobile. <br/>
+💻 Desenvolvedor full-stack focado em inovação, criando desde sistemas web até experiências imersivas em jogos para PC e Mobile. <br/>
 🎓 Tecnólogo em Gestão da Tecnologia da Informação. <br/>
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas. <br/>
 ❤️ Debian, Mint & Zorin. <br/>
