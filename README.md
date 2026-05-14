@@ -128,8 +128,11 @@
 
 <p align="left">
 
-  <p align="left">
+
+ <a href="https://github.com/gushpat/magic-cropper"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=magic-cropper&show_icons=true" alt="magic-cropper"></a>
+   
   <a href="https://github.com/gushpat/algoritmos-de-ordenacao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=algoritmos-de-ordenacao&show_icons=true" alt="algoritmos-de-ordenacao"></a>
+   
   <a href="https://github.com/gushpat/random-password-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=random-password-generator&show_icons=true" alt="random-password-generator"></a>
   
 </p>
