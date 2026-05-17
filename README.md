@@ -60,12 +60,15 @@
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="CopperCube" src="https://img.shields.io/badge/CopperCube-68217A.svg?style=flat-square&logo=square&logoColor=white"></a>
+    <a href="#"><img alt="Corona" src="https://img.shields.io/badge/Corona Engine-F96F29.svg?style=flat-square&logo=coronaengine&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=flat-square&logo=github%20actions&logoColor=white"></a>
  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20a?style=flat-square&logo=laravel&logoColor=white"></a>
  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React Native-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React Native-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="RPG Maker" src="https://img.shields.io/badge/RPG Maker-430098.svg?style=flat-square&logo=dungeonsanddragons&logoColor=white"></a>
+    <a href="#"><img alt="Raylib" src="https://img.shields.io/badge/Raylib-000000.svg?style=flat-square&logo=raylib&logoColor=white"></a>
+    <a href="#"><img alt="SGDK" src="https://img.shields.io/badge/SGDK-0089CF?style=flat-square&logo=sega&logoColor=white"></a>
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-20232a?style=flat-square&logo=unity&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8669AE.svg?style=flat-square&logo=infinityfree&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
