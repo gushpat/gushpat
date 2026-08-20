@@ -127,17 +127,7 @@
 
 <br/>
 
-## <img align="center" src="https://media1.giphy.com/media/xT0GqFhdxLWiksreEM/giphy.gif?cid=ecf05e47iwd9un61oaojah5k14nc5alq14c7vn6jnizwxv2g&rid=giphy.gif&ct=s" width="28" alt="SonicChaos"> Melhores Projetos de Código Aberto
 
-<p align="left">
-
-
- <a href="https://github.com/gushpat/magic-cropper"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=magic-cropper&show_icons=true" alt="magic-cropper"></a>
-   
-  <a href="https://github.com/gushpat/algoritmos-de-ordenacao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=algoritmos-de-ordenacao&show_icons=true" alt="algoritmos-de-ordenacao"></a>
-   
-  <a href="https://github.com/gushpat/random-password-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gushpat&repo=random-password-generator&show_icons=true" alt="random-password-generator"></a>
-</p>
 
 
 ## <img align="center" src="https://media2.giphy.com/media/iQrDORShLPiqQ/giphy.gif?cid=790b7611b3c938a5f919fb0c2b19921e0c383ebe5063cce6&rid=giphy.gif&ct=s" width="40" alt="MissingNo"> **Diga olá para a minha cobrinha!**
